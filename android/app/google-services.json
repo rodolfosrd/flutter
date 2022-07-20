@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127119323383",
+    "project_id": "app24-fc108",
+    "storage_bucket": "app24-fc108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127119323383:android:c63d9b4f5c2fb50a73e3f2",
+        "android_client_info": {
+          "package_name": "com.example.app24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127119323383-ltq7emmvn3otumv8fhd684k2k8e5q53b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnA4y2d7sIqIC4wvwkL6LB9iseCs7UeYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127119323383-ltq7emmvn3otumv8fhd684k2k8e5q53b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
